@@ -5,3 +5,6 @@ i will modify this text
 success join the remote_test
 
 conflict from 7
+conflict from theone57
+yes!!!
+
