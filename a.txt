@@ -1,3 +1,5 @@
 hello git remote association
 
 i will modify this text
+
+success join the remote_test
